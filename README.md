@@ -3,7 +3,7 @@ GXON Alternative XML Object Notation
 
 The main objective of GXON is to provide an alternative syntaxe for editing XML files. Cleaner as JSON, AXON, YAML, but preserving some XML semantic (e.g. Namespaces).
 
-It is not intended to be used in general XML documents, as an example, it is not intended to be used to create HTML files. It is designed to provid a cleaner alternative to create Object Graphs.
+It is not intended to be used in general XML documents, as an example, it is not intended to be used to create HTML files. It is designed to provide a cleaner alternative to create Object Graphs.
 
 FXML Document - XML Version:
 ```xml
@@ -40,5 +40,5 @@ FXML Document - GXON Version:
 ]
 ```
 
-It is a working in progress. As soon as possible the first version of an Eclipse Editor will be published. Stay tunned.
+It is a working in progress. As soon as possible the first version of the specification and an Eclipse Editor will be published. Stay tunned.
 
