@@ -1,7 +1,5 @@
 
-![GXON](images/gxon.png)
-
-# GXON
+# ![GXON](images/gxon.png) GXON
 
 Alternative XML Object Notation
 
