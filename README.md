@@ -1,6 +1,7 @@
 
-# ![GXON](images/gxon.png) GXON
+![GXON](images/gxon.png)
 
+# GXON
 Alternative XML Object Notation
 
 The main objective of GXON is to provide an alternative syntaxe for editing XML files. Cleaner as JSON, AXON, YAML, but preserving some XML semantic (e.g. Namespaces).
