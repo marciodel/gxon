@@ -108,5 +108,5 @@ html
 ```
 
 
-It is a working in progress. As soon as possible the first version of the specification and an Eclipse Editor will be published. Stay tunned.
+It is a working in progress. As soon as possible the first version of the specification and an Eclipse Editor will be published. Stay tuned.
 
