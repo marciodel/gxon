@@ -63,7 +63,7 @@ AnchorPane id="AnchorPane" prefHeight=200 prefWidth=320 xmlns:fx="http://javafx.
 ```
 
 
-It could be used to crate HTML/XHTML files two:
+It could be used to create HTML/XHTML files two:
 
 ```
 <!DOCTYPE html>
